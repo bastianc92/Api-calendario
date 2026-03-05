@@ -99,9 +99,3 @@ curl -X POST -H "Content-Type: application/json" -d '{"nombre":"Navidad","descri
 ```
 
 En Postman, crea una colección con las rutas anteriores usando el método y JSON correspondiente.
-
-## Licencia y autor
-
-Proyecto con licencia MIT.
-
-Autor: `Sebastian Castañeda` (replace con el real)
