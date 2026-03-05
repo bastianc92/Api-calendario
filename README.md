@@ -35,7 +35,7 @@ docker run --name pg -e POSTGRES_PASSWORD=tuclave -e POSTGRES_DB=apicalendario -
 spring.application.name=apicalendario
 spring.datasource.url=jdbc:postgresql://localhost:5432/apicalendario
 spring.datasource.username=postgres
-spring.datasource.password=1037620530ss
+spring.datasource.password='1234'
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
